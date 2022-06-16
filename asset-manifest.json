@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-leaflet-simple-web-map/static/css/main.4ffc0837.css",
+    "main.js": "/React-leaflet-simple-web-map/static/js/main.68f1ac4e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-leaflet-simple-web-map/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/React-leaflet-simple-web-map/index.html",
+    "main.4ffc0837.css.map": "/React-leaflet-simple-web-map/static/css/main.4ffc0837.css.map",
+    "main.68f1ac4e.js.map": "/React-leaflet-simple-web-map/static/js/main.68f1ac4e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-leaflet-simple-web-map/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ffc0837.css",
+    "static/js/main.68f1ac4e.js"
+  ]
+}
